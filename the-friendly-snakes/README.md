@@ -35,3 +35,12 @@ to get the coins from. There is even a potion that takes you to a secret room. N
 I adhered to this awesome theme by:
 * Implementing three types of coins
 * Implementing three types of potions
+
+# Attributions
+- [Pixel Portal by Grappe](https://grappe.itch.io/pixelportal)
+- [16-Bit Music Pack by Clement Panchout](https://clement-panchout.itch.io/yet-another-16-bit-music-pack)
+- [285 Game Sound Effects Vol.2 by Filippo Game Audio](https://filippogameaudio.itch.io/game-sound-effects-02)
+- [285 Game Sound Effects Vol.1 by Filippo Game Audio](https://filippogameaudio.itch.io/game-sound-effects-01)
+- [Universe of Potions by VikingTabern](https://vikingtabern.itch.io/universe-of-potions)
+- [Kenney's Game Assets](https://kenney.nl/assets)
+- [Cavernas by Adam Saltsman](https://adamatomic.itch.io/cavernas)
